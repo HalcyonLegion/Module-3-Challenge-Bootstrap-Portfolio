@@ -1,0 +1,52 @@
+.navbar-brand, ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 1rem;
+  }
+
+.mainSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#aboutMe, #myWork, #contactMe{
+    height: 15%;
+}
+
+p{
+    margin-left: 5px;
+    border-left: 3px solid black;
+}
+
+.row {
+    align-items: center;
+}
+
+li {
+    align-items: center;
+}
+
+.card {
+    background-color: #343a40 !important;
+    border: 0px;
+}
+
+.jumbotron {
+    height: 25%;
+    width: 100%;
+    color: white;
+    background-image: url(../images/02-hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+}
+
+#subtitle {
+    background-color: black;
+}
