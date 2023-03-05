@@ -14,7 +14,7 @@
     justify-content: space-evenly;
 }
 
-#aboutMe, #myWork, #contactMe{
+#aboutMe, #mySkills, #myWork, #contactMe{
     height: 33%;
     border-right: 3px solid black;
 }
