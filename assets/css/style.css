@@ -14,7 +14,7 @@
 }
 
 #aboutMe, #myWork, #contactMe{
-    height: 15%;
+    height: 30%;
     border-right: 3px solid black;
 }
 
@@ -27,6 +27,7 @@ li {
 }
 
 .card {
+    color: white;
     background-color: #343a40 !important;
     border: 0px;
 }
