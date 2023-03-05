@@ -15,11 +15,7 @@
 
 #aboutMe, #myWork, #contactMe{
     height: 15%;
-}
-
-p{
-    margin-left: 5px;
-    border-left: 3px solid black;
+    border-right: 3px solid black;
 }
 
 .row {
